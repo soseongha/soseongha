@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**soseongha/soseongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently studying about Software for major.
 
-Here are some ideas to get you started:
+🌱 I'm interested in Java, Spring, Embedded software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br><br>
+<div align="left">
+<img src="https://img.shields.io/badge/C언어-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white">
+</div>
+
+<!-- 
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soseongha&show_icons=true&theme=radical)
 -->
