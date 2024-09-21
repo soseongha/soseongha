@@ -5,7 +5,7 @@
 
 🌱 I'm currently studying about Software for major.
 
-🔭 I'm interested in Java, Spring, and all about server.
+🔭 I'm interested in System & Embedded software and Application with hardware unit.
 <br><br><br>
 
 ### Technology Stack
@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Java-4B4B77?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white">
+
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
   <br>
 
