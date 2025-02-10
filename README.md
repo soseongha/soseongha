@@ -5,7 +5,7 @@
 
 🌱 I'm currently studying about Software for major.
 
-🔭 I'm interested in System & Embedded software and Application with hardware unit.
+🔭 I'm interested in Android application & software with Embbeded. 
 <br><br><br>
 
 ### Technology Stack
